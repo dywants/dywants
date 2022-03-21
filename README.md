@@ -1,5 +1,5 @@
 # Dywants
-I'm Thibaut from Cameroon, FullStack developper php with Laravel & Adonis js, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS,Laravel,Adonis js, Css and React. 
+I'm Thibaut from Cameroon, FullStack developper with Laravel & Adonis js, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS,Laravel,Adonis js, Css and React. 
 
 Actually:
 
